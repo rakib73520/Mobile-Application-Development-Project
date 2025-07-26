@@ -116,10 +116,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Performance optimizations
 - Documentation updates
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Developer
 
 **Rakibul Hasan**
